@@ -2,17 +2,35 @@
     "id": 109813433,
     "name": "unclegrinch challeng",
     "author": "retrokillergd",
-    "creators": [],
+    "creators": ["retrokillergd"],
     "verifier": "retrokillergd",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
             "user": "unclegrinch",
-            "link": "https://youtu.be/tsHDoo0NPcQ?si=oEM6hCNReEnHXZWX",
+            "link": "https://youtu.be/tsHDoo0NPcQ?si=T7dgocJXmRcc-dpU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "hardman67",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "crimson77",
+            "link": "",
+            "percent": 100,
+            "hz": ???
+        },
+        {
+            "user": "Bengdd",
+            "link": "",
+            "percent": 100,
+            "hz": ???
         }
     ]
 }
